@@ -1,0 +1,28 @@
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.deps.json
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.runtimeconfig.json
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.pdb
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.csproj.AssemblyReference.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfoInputs.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfo.cs
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.csproj.CoreCompileInputs.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\refint\StudentLib.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.pdb
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.genruntimeconfig.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentLib\obj\Debug\net6.0\ref\StudentLib.dll
+C:\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.deps.json
+C:\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.runtimeconfig.json
+C:\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.dll
+C:\GroupAss01\StudentLib\bin\Debug\net6.0\StudentLib.pdb
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.csproj.AssemblyReference.cache
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfoInputs.cache
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfo.cs
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.csproj.CoreCompileInputs.cache
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.dll
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\refint\StudentLib.dll
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.pdb
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\StudentLib.genruntimeconfig.cache
+C:\GroupAss01\StudentLib\obj\Debug\net6.0\ref\StudentLib.dll

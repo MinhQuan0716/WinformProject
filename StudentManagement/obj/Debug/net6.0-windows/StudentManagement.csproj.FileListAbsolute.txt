@@ -1,0 +1,147 @@
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAccount.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAccountDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmCourse.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmCourseDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmExamResult.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmExamResultDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmLogin.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmMain.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentLib.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentLib.pdb
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowAttend.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowResult.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmStudent.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmSchedule.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmScheduleDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminAttendace.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminSchedule.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminScheduleDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowCourse.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmTeacher.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminAttendanceDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAttendace.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAttendanceDetail.resources
+C:\Users\minhq\OneDrive\Máy tính\Demo 3\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmFullCourse.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.AssemblyReference.cache
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAccount.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAccountDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminAttendace.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminSchedule.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAdminScheduleDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAttendace.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmAttendanceDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmCourse.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmCourseDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmExamResult.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmExamResultDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmFullCourse.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmLogin.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmMain.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmSchedule.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmScheduleDetail.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowAttend.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowCourse.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmShowResult.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmStudent.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.frmTeacher.resources
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.GenerateResource.cache
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfoInputs.cache
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.AssemblyInfo.cs
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CoreCompileInputs.cache
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.dll
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\refint\StudentManagement.dll
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.pdb
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.exe
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.deps.json
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.runtimeconfig.json
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentManagement.pdb
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentLib.dll
+C:\GroupAss01\StudentManagement\bin\Debug\net6.0-windows\StudentLib.pdb
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.csproj.CopyComplete
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\StudentManagement.genruntimeconfig.cache
+C:\GroupAss01\StudentManagement\obj\Debug\net6.0-windows\ref\StudentManagement.dll
